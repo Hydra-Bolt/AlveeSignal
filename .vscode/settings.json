@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/74e6cfdd-2f2d-4d16-af74-7f027735c7a2/resourceGroups/AlveeSignal_group/providers/Microsoft.Web/sites/AlveeSignal",
+    "appService.deploySubpath": "."
+}
